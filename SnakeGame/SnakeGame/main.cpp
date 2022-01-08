@@ -1,3 +1,5 @@
+//Happy Gaming
+
 #include <iostream>
 #include "SFML/Graphics.hpp"
 #include <time.h>
